@@ -1,4 +1,4 @@
-#Description
+# Description
 
 This is a react project that hits the OMDB Movie Database API and searches for movies and tv shows relating to the name you typed in. Once the API gets all the titles, it dynamically creates react components with the name, movie poster, year, and series type of the items that were returned.
 
