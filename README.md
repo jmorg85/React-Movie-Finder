@@ -13,3 +13,4 @@ This is a react project that hits the OMDB Movie Database API and searches for m
 ![image](https://github.com/jmorg85/React-Movie-Finder/assets/15697425/33aa6c92-4433-471f-8431-642630191aeb)
 
 3. Once you get an API key, you're ready to go.
+![image](https://github.com/jmorg85/React-Movie-Finder/assets/15697425/e34d1268-9a88-480d-b00f-d0af65b50790)
